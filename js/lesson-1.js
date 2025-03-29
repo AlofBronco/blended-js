@@ -151,8 +151,9 @@
 // В іншому випадку вона запитує підтвердження через confirm
 // і повертає його результат (true/false).
 
-function isAdult(age) {
-  return age >= 18 ? true : confirm('Still wanna see the website');
-}
+// function isAdult(age) {
+//   return age >= 18 ? true : confirm('Still wanna see the website');
+// }
 
-console.log(isAdult(15));
+// console.log(isAdult(15));
+
